@@ -1,2 +1,3 @@
 starting new practice for devops
 making changes on the feature branch
+modified master branch for merge conflict
